@@ -1,0 +1,37 @@
+_repo: Taboo-and-Genetics--13-A-Study-of-the-Biological-Sociological-and-Psychological-Foundation-of__14325
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Blanchard, Phyllis Mary
+    gutenberg_agent_id: '5474'
+    url: http://www.gutenberg.org/2009/agents/5474
+  - agent_name: Knight, Melvin Moses
+    birthdate: 1887
+    deathdate: 1981
+    gutenberg_agent_id: '5472'
+    url: http://www.gutenberg.org/2009/agents/5472
+  - agent_name: Peters, Iva Lowther
+    birthdate: 1876
+    gutenberg_agent_id: '5473'
+    url: http://www.gutenberg.org/2009/agents/5473
+description: ''
+gutenberg_issued: '2004-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14325'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sex (Biology)'
+- !lcsh 'Taboo'
+- !lcsh 'Sex (Psychology)'
+- !lcsh 'Women'
+- !lcc 'HQ'
+title: "Taboo and Genetics\r\nA Study of the Biological, Sociological and Psychological\
+  \ Foundation of the Family"
+url: http://www.gutenberg.org/ebooks/14325
